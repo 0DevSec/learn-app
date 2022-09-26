@@ -1,4 +1,4 @@
-package com.dev.learn_app;
+package com.dev.calc;
 
 import org.junit.Test;
 
